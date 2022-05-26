@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<source path='src' />
+
+	<haxedef name="html5import" />
+	<haxedef name="invalidate" />
+
+	<!-- 趣游戏宏定义 -->
+	<haxedef name="lianxin" />
+
+	<!-- HTML5是否允许使用高清字体 -->
+	<window allow-high-dpi="true" />
+
+	<!-- 主入口文件 -->
+	<template path="index.html" />
+
+	<!-- 小游戏标示 -->
+	<define name="minigame" />
+
+	<!-- 视频组件 -->
+	<set name="VIDEO_AD_CLASS" value="CoreVideoAd" />
+
+	<!-- 横幅组件 -->
+	<set name="BANNER_AD_CLASS" value="CoreBannerAd" />
+
+	<!-- 插屏组件 -->
+	<set name="AD_CLASS" value="CoreCPAd" />
+
+	<!-- 支付组件 -->
+	<set name="PAY_CLASS" value="LXPay"/>
+
+	<!-- SDK资源 -->
+	<assets path="assets" embed="false"/>
+
+</project>

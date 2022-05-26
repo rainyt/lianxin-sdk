@@ -1,0 +1,14 @@
+{
+  "name": "lianxin-sdk",
+  "url": "https://github.com/rainyt/lianxin-sdk",
+  "license": "MIT",
+  "tags": ["wechat","build","openfl"],
+  "description": "连信渠道H5版本SDK",
+  "version": "0.0.1",
+  "releasenote": "",
+  "contributors": ["rainy"],
+  "classPath": "src",
+  "dependencies": {
+
+  }
+}

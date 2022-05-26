@@ -1,0 +1,14 @@
+<ZBox width="100%" height="100%">
+<TouchImageBatchsContainer src="LXPayViewAtlas" width="100%" height="100%">
+<BBox width="100%" height="100%">
+    <BImage src="LXPayViewAtlas:bg" centerX="0" centerY="0" />
+<BBox width="100%" height="100%">
+    <BImage src="LXPayViewAtlas:LianXin" centerX="-254.5" centerY="80" />
+    <BImage src="LXPayViewAtlas:WeiXin" centerX="0.5" centerY="80" />
+    <BImage src="LXPayViewAtlas:ZhiFuBao" centerX="255" centerY="80" />
+</BBox>
+    <BButton src="LXPayViewAtlas:GuanBi" centerX="393" centerY="-251" />
+    <BImage src="LXPayViewAtlas:ZhiFuFangShi" centerX="-2" centerY="-226.5" />
+</BBox>
+</TouchImageBatchsContainer>
+</ZBox>

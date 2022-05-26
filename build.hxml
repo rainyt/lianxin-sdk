@@ -1,0 +1,16 @@
+-main LXSdk
+-lib openfl
+-lib lime
+-lib zygameui
+-lib KengSDK
+-lib spine-hx
+-lib tweenxcore
+--library openfl-glsl
+--library openfl-spine
+--library vector-math
+--library zygameui-api
+--library openfl-gpu-particles
+--library castle
+-D zygame
+-cp src
+-js lx-core.js
